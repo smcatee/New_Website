@@ -1,0 +1,26 @@
+---
+title: New New Post
+author: Sean
+date: '2021-03-10'
+slug: new-new-post
+categories: []
+tags: []
+keywords:
+  - tech
+
+---
+
+<!--more-->
+
+
+```{}
+2 + 2
+```
+
+
+
+# Content
+
+## Content
+
+### Content
